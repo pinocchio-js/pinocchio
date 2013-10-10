@@ -1,4 +1,4 @@
-pinoccio
-========
+pinocchio
+=========
 
 Marionette extensions
