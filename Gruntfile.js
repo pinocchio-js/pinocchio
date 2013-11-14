@@ -25,7 +25,7 @@ module.exports = function(grunt) {
     jasmine: {
       options: {
         helpers: 'spec/javascripts/helpers/*.js',
-        specs: 'spec/javascripts/**/*.spec.js',
+        specs: 'spec/javascripts/**/*_spec.js',
         vendor: ['public/javascripts/jquery.js', 'public/javascripts/json2.js', 'public/javascripts/underscore.js', 'public/javascripts/backbone.js', 'public/javascripts/backbone.marionette.js']
       },
       pinocchio: {
