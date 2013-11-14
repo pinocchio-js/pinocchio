@@ -1,0 +1,32 @@
+{
+  "name": "pinocchio",
+  "version": "0.0.1",
+  "description": "The framework that will solve all your problems",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pinocchio-js/pinocchio.git"
+  },
+  "keywords": [
+    "marionette",
+    "backbone",
+    "pinocchio"
+  ],
+  "author": "pinocchio-team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pinocchio-js/pinocchio/issues"
+  },
+  "dependencies": {
+    "backbone.marionette": "~1.0.2"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-connect": "~0.5.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-jshint": "~0.6.5",
+    "grunt-contrib-uglify": "~0.2.7",
+    "grunt-contrib-jasmine": "~0.5.2",
+    "grunt-preprocess": "~3.0.1"
+  }
+}
